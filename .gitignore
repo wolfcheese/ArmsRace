@@ -1,0 +1,26 @@
+enc_temp_folder/
+Build/
+TombEngine/CustomObjects/
+TombEngine/x64/
+TombEngine/Debug/
+TombEngine/Release
+TombEngine/Legacy Engine Objects
+x64/
+packages/
+.vs/
+*.dll
+*.dmp
+*.id0
+*.id1
+*.id2
+*.id3
+*.obj
+*.zip
+*.db
+*.opendb
+.exp
+.pdb
+.ilk
+*.wav
+*.trc
+*.str
